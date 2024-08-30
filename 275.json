@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pdd-modal": "./223",
+    "pdd-image": "/242",
+    "share-controller": "/wx_components/share_controller/index",
+    "privacy-modal": "/255"
+  }
+}

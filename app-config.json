@@ -1,0 +1,1076 @@
+{
+  "subPackages": [
+    {
+      "root": "package_a/"
+    },
+    {
+      "root": "package_b/"
+    },
+    {
+      "root": "package_c/"
+    },
+    {
+      "root": "package_d/"
+    },
+    {
+      "root": "package_e/"
+    },
+    {
+      "root": "package_f/"
+    },
+    {
+      "root": "package_g/"
+    },
+    {
+      "root": "package_h/vegetables/"
+    },
+    {
+      "root": "package_h/vegetables_2/"
+    },
+    {
+      "root": "package_debug/"
+    },
+    {
+      "root": "package_activity/gallery/"
+    },
+    {
+      "root": "package_activity/garden/"
+    },
+    {
+      "root": "package_activity/farm/"
+    },
+    {
+      "root": "package_activity/ranch/"
+    },
+    {
+      "root": "/__wx__/",
+      "independent": true
+    }
+  ],
+  "entryPagePath": "pages/index/index.html",
+  "pages": [
+    "pages/index/index",
+    "pages/auth/auth",
+    "pages/classification/classification",
+    "pages/personal/personal",
+    "pages/custom_service_list/custom_service_list",
+    "pages/web/web",
+    "pages/milk/milk",
+    "pages/tea/tea",
+    "pages/recommended/recommended",
+    "pages/page_not_found/page_not_found",
+    "pages/web_share/web_share",
+    "pages/web_bridge/web_bridge",
+    "pages/football/index",
+    "pages/basketball/index",
+    "pages/fencing/index",
+    "pages/swimming/index",
+    "pages/gymnastics/index",
+    "pages/tennis/index",
+    "package_a/comment_share/comment_share",
+    "package_a/search_result/search_result",
+    "package_a/catgoods/catgoods",
+    "package_a/mall_page/mall_page",
+    "package_a/help_pay/help_pay",
+    "package_a/combined_friend_payment/combined_friend_payment",
+    "package_a/welfare_coupon/welfare_coupon",
+    "package_a/charge_center/charge_center",
+    "package_a/charge_result/charge_result",
+    "package_a/coupon_center/coupon_center",
+    "package_a/pic_search/pic_search",
+    "package_b/bind_phone_number/bind_phone_number",
+    "package_b/activity_subscribe/activity_subscribe",
+    "package_b/activity_navigate/activity_navigate",
+    "package_b/pay_score_sign/pay_score_sign",
+    "package_b/subscribe_of_orders/subscribe_of_orders",
+    "package_b/coffee/index",
+    "package_b/wx_credit_transfer/wx_credit_transfer",
+    "package_b/update_profile/update_profile",
+    "package_b/setup/setup",
+    "package_b/account_safe/account_safe",
+    "package_c/goods_comments/goods_comments",
+    "package_c/addresses/addresses",
+    "package_c/goods/goods",
+    "package_c/group/group",
+    "package_c/order_checkout/order_checkout",
+    "package_c/transac_batch_checkout/transac_batch_checkout",
+    "package_c/pay/pay",
+    "package_c/live_share/live_share",
+    "package_c/gift_address/gift_address",
+    "package_d/paid_express/paid_express",
+    "package_d/risk_control/risk_control",
+    "package_d/relative_recommend/relative_recommend",
+    "package_d/face_check/verify/verify",
+    "package_e/orders/orders",
+    "package_e/order/order",
+    "package_e/transac_exclusive_orders/transac_exclusive_orders",
+    "package_e/coupons/coupons",
+    "package_f/custom_service/custom_service",
+    "package_f/play_video/play_video",
+    "package_g/live_room/live_room",
+    "package_g/live_subscribe/live_subscribe",
+    "package_h/vegetables/pages/vgt_mall_list/vgt_mall_list",
+    "package_h/vegetables/pages/vgt_index/vgt_index",
+    "package_h/vegetables/pages/vgt_shadow/vgt_shadow",
+    "package_h/vegetables/pages/vgt_share/vgt_share",
+    "package_h/vegetables/pages/vgt_web/vgt_web",
+    "package_h/vegetables/pages_shopping/vgt_pay/vgt_pay",
+    "package_h/vegetables/pages_shopping/vgt_xyhf_pay/vgt_xyhf_pay",
+    "package_h/vegetables_2/pages_vendor/vgt_back/vgt_back",
+    "package_h/vegetables_2/pages_shopping/vgt_friend_pay/vgt_friend_pay",
+    "package_h/vegetables_2/pages_sub/vgt_to_mini_program/vgt_to_mini_program",
+    "package_h/vegetables_2/pages_sub/vgtact_search/vgtact_search",
+    "package_h/vegetables_2/pages_shopping/vgt_goods/vgt_goods",
+    "package_h/vegetables_2/pages_shopping/vgt_address_list/vgt_address_list",
+    "package_h/vegetables_2/pages_shopping/vgt_store_list/vgt_store_list",
+    "package_debug/debug/debug",
+    "package_activity/gallery/gallery_page/gallery_page",
+    "package_activity/garden/pages/index/index",
+    "package_activity/garden/pages/share/index",
+    "package_activity/garden/pages/szy/index",
+    "package_activity/garden/pages/wz/index",
+    "package_activity/farm/pages/sharetransfer/index",
+    "package_activity/farm/pages/boottransfer/index",
+    "package_activity/farm/pages/webviewboot/index",
+    "package_activity/farm/pages/launchapptransfer/index",
+    "package_activity/farm/pages/codetransfer/index",
+    "package_activity/farm/pages/drivetransfer/index",
+    "package_activity/farm/pages/wzb/index",
+    "package_activity/farm/pages/wzt/index",
+    "package_activity/farm/pages/edft/index",
+    "package_activity/farm/pages/grt/index",
+    "package_activity/farm/pages/jtt/index",
+    "package_activity/farm/pages/klt/index",
+    "package_activity/farm/pages/szyt/index",
+    "package_activity/farm/pages/wyt/index",
+    "package_activity/farm/pages/ylt/index",
+    "package_activity/ranch/pages/index/index",
+    "__wx__/functional-page",
+    "__wx__/open-api-redirecting-page",
+    "__wx__/choose-wifi-credential-page"
+  ],
+  "page": {
+    "pages/index/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/auth/auth.html": {
+      "window": {
+        "navigationBarTitleText": "登录",
+        "enablePullDownRefresh": false
+      }
+    },
+    "pages/classification/classification.html": {
+      "window": {
+        "navigationBarTitleText": "分类",
+        "enablePullDownRefresh": false,
+        "onReachBottomDistance": 200,
+        "backgroundColor": "#fff",
+        "backgroundColorBottom": "#fff",
+        "disableScroll": true
+      }
+    },
+    "pages/personal/personal.html": {
+      "window": {
+        "navigationBarTitleText": " ",
+        "navigationBarBackgroundColor": "#fff",
+        "backgroundColor": "#fff",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400
+      }
+    },
+    "pages/custom_service_list/custom_service_list.html": {
+      "window": {
+        "navigationBarTitleText": "聊天",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 600
+      }
+    },
+    "pages/web/web.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "pages/milk/milk.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "pages/tea/tea.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "pages/recommended/recommended.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 200,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/page_not_found/page_not_found.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "pages/web_share/web_share.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "pages/web_bridge/web_bridge.html": {
+      "window": {}
+    },
+    "pages/football/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/basketball/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/fencing/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/swimming/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/gymnastics/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "pages/tennis/index.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 400,
+        "disableSwipeBack": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_a/comment_share/comment_share.html": {
+      "window": {
+        "navigationBarTitleText": "好评分享",
+        "enablePullDownRefresh": false,
+        "disableScroll": true
+      }
+    },
+    "package_a/search_result/search_result.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "onReachBottomDistance": 200,
+        "navigationStyle": "custom",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    },
+    "package_a/catgoods/catgoods.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "onReachBottomDistance": 600,
+        "navigationBarTitleText": ""
+      }
+    },
+    "package_a/mall_page/mall_page.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_a/help_pay/help_pay.html": {
+      "window": {
+        "navigationBarTitleText": "好友代付",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_a/combined_friend_payment/combined_friend_payment.html": {
+      "window": {
+        "navigationBarTitleText": "好友代付",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_a/welfare_coupon/welfare_coupon.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_a/charge_center/charge_center.html": {
+      "window": {
+        "navigationBarTitleText": "充值中心",
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_a/charge_result/charge_result.html": {
+      "window": {
+        "navigationBarTitleText": "充值中心",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_a/coupon_center/coupon_center.html": {
+      "window": {}
+    },
+    "package_a/pic_search/pic_search.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "disableScroll": true
+      }
+    },
+    "package_b/bind_phone_number/bind_phone_number.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#ffffff",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_b/activity_subscribe/activity_subscribe.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_b/activity_navigate/activity_navigate.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_b/pay_score_sign/pay_score_sign.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "先用后付设置"
+      }
+    },
+    "package_b/subscribe_of_orders/subscribe_of_orders.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_b/coffee/index.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "package_b/wx_credit_transfer/wx_credit_transfer.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_b/update_profile/update_profile.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "个人信息"
+      }
+    },
+    "package_b/setup/setup.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "设置与帮助"
+      }
+    },
+    "package_b/account_safe/account_safe.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "账号与安全"
+      }
+    },
+    "package_c/goods_comments/goods_comments.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_c/addresses/addresses.html": {
+      "window": {
+        "navigationBarTitleText": "收货地址",
+        "enablePullDownRefresh": false,
+        "disableScroll": true
+      }
+    },
+    "package_c/goods/goods.html": {
+      "window": {
+        "navigationBarTitleText": "商品详情",
+        "onReachBottomDistance": 800,
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "singlePage": {
+          "navigationBarFit": "squeezed"
+        }
+      }
+    },
+    "package_c/group/group.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_c/order_checkout/order_checkout.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_c/transac_batch_checkout/transac_batch_checkout.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_c/pay/pay.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_c/live_share/live_share.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    },
+    "package_c/gift_address/gift_address.html": {
+      "window": {
+        "navigationBarTitleText": "填写收货地址",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_d/paid_express/paid_express.html": {
+      "window": {
+        "navigationBarTitleText": "免密支付设置",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_d/risk_control/risk_control.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_d/relative_recommend/relative_recommend.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_d/face_check/verify/verify.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "package_e/orders/orders.html": {
+      "window": {
+        "navigationBarTitleText": "我的订单",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 200
+      }
+    },
+    "package_e/order/order.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false,
+        "backgroundColor": "#ffffff",
+        "navigationStyle": "custom"
+      }
+    },
+    "package_e/transac_exclusive_orders/transac_exclusive_orders.html": {
+      "window": {
+        "navigationBarTitleText": "待处理订单",
+        "onReachBottomDistance": 0,
+        "enablePullDownRefresh": true
+      }
+    },
+    "package_e/coupons/coupons.html": {
+      "window": {
+        "navigationBarTitleText": "我的优惠券",
+        "enablePullDownRefresh": false,
+        "disableScroll": true
+      }
+    },
+    "package_f/custom_service/custom_service.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false,
+        "backgroundColor": "#EBEBEB",
+        "disableScroll": true
+      }
+    },
+    "package_f/play_video/play_video.html": {
+      "window": {
+        "navigationBarTitleText": "视频播放",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_g/live_room/live_room.html": {
+      "window": {
+        "navigationBarTitleText": "多多直播",
+        "disableScroll": true,
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_g/live_subscribe/live_subscribe.html": {
+      "window": {
+        "navigationBarTitleText": "直播预约",
+        "disableScroll": false,
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_h/vegetables/pages/vgt_mall_list/vgt_mall_list.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "backgroundColor": "#F4F4F4",
+        "backgroundTextStyle": "dark",
+        "navigationBarTextStyle": "black",
+        "handleWebviewPreload": "manual"
+      }
+    },
+    "package_h/vegetables/pages/vgt_index/vgt_index.html": {
+      "window": {
+        "disableScroll": true,
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFF"
+      }
+    },
+    "package_h/vegetables/pages/vgt_shadow/vgt_shadow.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables/pages/vgt_share/vgt_share.html": {
+      "window": {
+        "navigationBarTitleText": "分享",
+        "backgroundColor": "#F4F4F4",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables/pages/vgt_web/vgt_web.html": {
+      "window": {
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables/pages_shopping/vgt_pay/vgt_pay.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "backgroundColor": "#F4F4F4",
+        "navigationBarTitleText": "支付",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables/pages_shopping/vgt_xyhf_pay/vgt_xyhf_pay.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "backgroundColor": "#F4F4F4",
+        "navigationBarTitleText": "支付",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables_2/pages_vendor/vgt_back/vgt_back.html": {
+      "window": {
+        "navigationBarTitleText": "测试",
+        "backgroundColor": "#F4F4F4",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables_2/pages_shopping/vgt_friend_pay/vgt_friend_pay.html": {
+      "window": {
+        "navigationBarTitleText": "好友代付",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#F4F4F4",
+        "enablePullDownRefresh": true
+      }
+    },
+    "package_h/vegetables_2/pages_sub/vgt_to_mini_program/vgt_to_mini_program.html": {
+      "window": {
+        "navigationBarTitleText": "多多买菜",
+        "backgroundColor": "#F4F4F4",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables_2/pages_sub/vgtact_search/vgtact_search.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "backgroundColor": "#F4F4F4",
+        "navigationBarTitleText": "搜索商品",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables_2/pages_shopping/vgt_goods/vgt_goods.html": {
+      "window": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "商品详情",
+        "backgroundColor": "#F4F4F4",
+        "navigationStyle": "custom"
+      }
+    },
+    "package_h/vegetables_2/pages_shopping/vgt_address_list/vgt_address_list.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "backgroundColor": "#F4F4F4",
+        "backgroundTextStyle": "dark",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_h/vegetables_2/pages_shopping/vgt_store_list/vgt_store_list.html": {
+      "window": {
+        "navigationStyle": "custom",
+        "backgroundColor": "#F4F4F4",
+        "backgroundTextStyle": "dark",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_debug/debug/debug.html": {
+      "window": {
+        "backgroundColor": "#ffffff",
+        "enablePullDownRefresh": false
+      }
+    },
+    "package_activity/gallery/gallery_page/gallery_page.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    "package_activity/garden/pages/index/index.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationBarTitleText": "多多果园",
+        "navigationStyle": "custom"
+      }
+    },
+    "package_activity/garden/pages/share/index.html": {
+      "window": {}
+    },
+    "package_activity/garden/pages/szy/index.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationBarTitleText": "多多果园",
+        "navigationStyle": "custom"
+      }
+    },
+    "package_activity/garden/pages/wz/index.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationBarTitleText": "多多果园",
+        "navigationStyle": "custom"
+      }
+    },
+    "package_activity/farm/pages/sharetransfer/index.html": {
+      "window": {
+        "disableScroll": true,
+        "navigationBarTitleText": "分享给好友"
+      }
+    },
+    "package_activity/farm/pages/boottransfer/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/webviewboot/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/launchapptransfer/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/codetransfer/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/drivetransfer/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/wzb/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/wzt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/edft/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/grt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/jtt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/klt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/szyt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/wyt/index.html": {
+      "window": {}
+    },
+    "package_activity/farm/pages/ylt/index.html": {
+      "window": {}
+    },
+    "package_activity/ranch/pages/index/index.html": {
+      "window": {
+        "navigationBarTitleText": "多多牧场",
+        "navigationStyle": "custom",
+        "disableScroll": true
+      }
+    },
+    "__wx__/functional-page.html": {
+      "window": {}
+    },
+    "__wx__/open-api-redirecting-page.html": {
+      "window": {}
+    },
+    "__wx__/choose-wifi-credential-page.html": {
+      "window": {
+        "navigationStyle": "custom"
+      }
+    }
+  },
+  "debug": true,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的地理位置，将用于收货地址的定位与展示"
+    }
+  },
+  "global": {
+    "window": {
+      "backgroundTextStyle": "dark",
+      "navigationBarBackgroundColor": "#ffffff",
+      "navigationBarTitleText": "拼多多",
+      "navigationBarTextStyle": "black",
+      "enablePullDownRefresh": true,
+      "onReachBottomDistance": 600,
+      "backgroundColor": "#f4f4f4"
+    }
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000,
+    "uploadFile": 35000
+  },
+  "plugins": {
+    "sendCoupon": {
+      "version": "1.5.0",
+      "provider": "wxf3f436ba9bd4be7b",
+      "subpackage": "__APP__"
+    }
+  },
+  "tabBar": {
+    "color": "#777",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#e02e24",
+    "list": [
+      {
+        "pagePath": "pages/index/index.html",
+        "text": "首页",
+        "iconData": "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",
+        "selectedIconData": "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"
+      },
+      {
+        "pagePath": "pages/recommended/recommended.html",
+        "text": "多多视频",
+        "iconData": "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",
+        "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAAFEAAABRCAYAAACqj0o2AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAUaADAAQAAAABAAAAUQAAAACLJq68AAAEeElEQVR4Ae2cTagOURjHvUi5bHyVr4XyWUIWFrd8dLEgRUnKRhZy7w7ZWHLzde+S7u1mo7iklCQLK1JKssLOx4IQsqEon6/fv2ZqHM07550778yZmXPq3/mY53nOeX6d987ceWfeceN88QQ8AU/AE/AEPIGaEmg2m8vQEBpGS7PGEMRXbM2xLOv4hccjqS70BL0L9Ix6ZVYLUyykmGF8zdWVVfykOOOTDDI6vog4MyOxptK+TKILI2OpmkGMKzgrZlg0l+bMpeQF8SXZfDIymkH/KhDmGOPW3cD3Kg7TDSfNpTlzKblAbDQaX8mmF303sppHXyCnGeOJ3cBHABUjWjRHbzBndLxj7VwgavUk9YCqD/1RP1IW0x4FivXfsMB2FD/5Roti9wVzRcer1QbAbhSeAKK1duSkpGxlg2Qb9Q3bu5P8K3McAL0xEM4zHvvp0DEkmxBatNafi3oVQByNgTEQRwL7gRifo3E+lR8HyGAMlG4zeey6Y2wHTdu8+412JySRBfjsQz1oPpqMyly+sfjX6C66wEnpTbvJWEMEnmwPo0NoYrsTlcT+B+scBORwO+ttB+IZAu9tJ3iJbUcA2W+7/tgzYTQAu3An/boAVOp95LwlyqBVO3EnEkygHyLzP4NWcatw7AW7cb1NIjY7cU0NAYrdIjbQiqwgrrIJVFEbq9xtdmL0FlZFWcWmZZW7DcQJsVNU/4BV7jYQq49qjBl6iGMEKHcP0UPMgEAGIfxO9BAzIJBBCL8TPcQMCGQQwqWd+Jt83maQU+4hXIF4g8yXc9dENztWo7PoJypFcQHiC0gdBOAXEaP+gHQDeCO6pzHXiwsQ7wHtv13H2Eu0B4AH0DuXQboA8XMrQIC8xXHdHB1Cv1rZFnXMBYiJuQPyGzqJ4SZ0P9EhZ4NSQAyZAPI50qMieqbnfThedF0qiCEsQN6kvQ6NoMI/4qWEKJiA/Ir6aW5GeuKssFJaiCExQD6jvQtdCsfyrksPUcAA2aQ6jlqe6WXbiVIJiAIDSD1T86oTkJJiVgYi3xHrwaqFSQl34nglIAZPaZwG0JROQEqKWXqIAFxCkteQrh8LKaV9RA542nVH0H5UaB6FTp522wBwO77H0Oy0MbL0KxVE4OmVC/0PvTZLCGONVQqIwNM7LnpKV28IOLdmFxY0q9VOAOA2jutCem4ruyKPuQCxB1ATuVj+50YCY7rmO4E2FAnIZm4XLnHms9BzQJuuBatGei/lDnIeoNbswk7UOnagrcD7SK0zrivrYinJxaXF6r0+7crSFRc+zqWDZi7YQzSJpOh7iCmgmS4eokkkRd9DTAHNdPEQTSIp+h5iCmimi4doEknRt4Go5wbrWqxyt4Fo/ihQnYBa5W4D8XGdqBm5WuVuA/ERgUv5GLABpN2u3nd+auOUCJFAfwikryPrVk7ZJpwIUYEAeZ3qom3QCtjpNyBu2+bRsDXkXp9s9T2H/zUSA5o1xNAPmAto70M9SPf/av+7ODDwxRPwBDwBT8AT8AQ8AU/AE/iPwF+7O+gRwFJwsgAAAABJRU5ErkJggg=="
+      },
+      {
+        "pagePath": "pages/classification/classification.html",
+        "text": "分类",
+        "iconData": "iVBORw0KGgoAAAANSUhEUgAAAFEAAABRCAYAAACqj0o2AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAUaADAAQAAAABAAAAUQAAAACLJq68AAABy0lEQVR4Ae3av0qHUBTAcRUaIh17gqCxF2j0BWqRtqhBXVx9CqcmnYKmHqClrVdobWyLJpFokLR7KUHunx9ntb4/kKvnHkU//LwO5wQBPwQQQAABBBBAAAEEEEAAgT8sEPqeLc/zozAMT9X22rbtky+PeBA4EcuyvJ6mqVVAexpJQT6kaXqWZdmXFK2qqsNxHA+k+VvIi+P4vWmaD/NeLcS6rpO+79/med5fJyvIy67r7tYx335RFDfq/Mo3v9W4MvhU27l6Mx/XzxCtD/T+MAzHJqCOq9iJHoW/K2HeptK0i9ouzJu2EJMkedHiVmIUPZuxHce3O+Y2O/X7T7w3H8B6nXUCa6LJ9HMsXhOX0/k6LxKMCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggIAl4CxU6SxqLJaVN+BEpNrn9hJX++iAcAPqKB0QfhvxDB0QYip/Ih0QfhvxjHhNXK7I13mRYEQAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEELAFn8V5nUWOxrLwBJyIdEG4vcbWPDgg3oI7SAeG3Ec/QASGm8ifSAeG3Ec+I18TlinydFwlGBBBAAAEEEEAAAQQQQACBfy7wDbuz/yLPQdvjAAAAAElFTkSuQmCC",
+        "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAAFEAAABRCAYAAACqj0o2AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAUaADAAQAAAABAAAAUQAAAACLJq68AAAB1UlEQVR4Ae3asUoDQRCA4dkzClEsBRu1MMbOKJZ5Ce3sRHtfxspOsBLS2tj5CCZVSGcakbSaFJKsLuHg2N2BaU//a/Z2dnLcfVz2ihkRDgQQQAABBBBAAAEEEEAAgT8s4LRnG5+29v130S2KYrzzOnzR8oiLZBHHndb1QtydeL8akJxzT7vt4zPX682taO8nrS3xjQ1rfh3y3GJtsj0YfMX3miBOuoeb08/5h/fSrCY7KS73BqOHakw7f+sc3Hrvb7T1usadk5mTxvluf/hcfYaiOgnn05lrx4Ah7t3iKIymw8uVKa9mScHFy/wivu0Ecb3pR0E8Tvx9E/txTJ07uVfXarywfBNXHuNHSP7OIYE9MWZazs17Yvlzvs6lBCMCCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAgggkAhkC1UhixpLYqUGsohU+/Je5mofHRB5wBClA0K3Ma/QAWGm0hPpgNBtzCvmPbG8Il/nUoIRAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEgEssX7kEWNJbFSA1lEOiDyXuZqHx0QecAQpQNCtzGv0AFhptIT6YDQbcwr5j2xvCJf51KCEQEEEEAAAQQQQAABBBBA4J8L/ADu1/kcV4iIUwAAAABJRU5ErkJggg=="
+      },
+      {
+        "pagePath": "pages/custom_service_list/custom_service_list.html",
+        "text": "聊天",
+        "iconData": "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",
+        "selectedIconData": "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"
+      },
+      {
+        "pagePath": "pages/personal/personal.html",
+        "text": "个人中心",
+        "iconData": "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",
+        "selectedIconData": "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"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "pages/auth/auth": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "pages/classification/classification": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "pages/personal/personal": {
+      "network": "all",
+      "packages": ["package_e"]
+    },
+    "pages/custom_service_list/custom_service_list": {
+      "network": "all",
+      "packages": ["package_c", "package_f"]
+    },
+    "pages/web/web": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "pages/recommended/recommended": {
+      "network": "all",
+      "packages": ["package_g"]
+    },
+    "pages/page_not_found/page_not_found": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "pages/web_share/web_share": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "pages/web_bridge/web_bridge": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/comment_share/comment_share": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/search_result/search_result": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/catgoods/catgoods": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/mall_page/mall_page": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/help_pay/help_pay": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/combined_friend_payment/combined_friend_payment": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/welfare_coupon/welfare_coupon": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/charge_center/charge_center": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/charge_result/charge_result": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_a/coupon_center/coupon_center": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_b/bind_phone_number/bind_phone_number": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_b/activity_subscribe/activity_subscribe": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_b/activity_navigate/activity_navigate": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_b/pay_score_sign/pay_score_sign": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_b/subscribe_of_orders/subscribe_of_orders": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_c/goods_comments/goods_comments": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/addresses/addresses": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/goods/goods": {
+      "network": "all",
+      "packages": ["package_a", "package_f"]
+    },
+    "package_c/group/group": {
+      "network": "all",
+      "packages": ["package_e"]
+    },
+    "package_c/order_checkout/order_checkout": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/transac_batch_checkout/transac_batch_checkout": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/pay/pay": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/live_share/live_share": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_c/gift_address/gift_address": {
+      "network": "all",
+      "packages": ["package_a"]
+    },
+    "package_d/paid_express/paid_express": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_d/risk_control/risk_control": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_d/relative_recommend/relative_recommend": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_e/orders/orders": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_e/transac_exclusive_orders/transac_exclusive_orders": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_e/order/order": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_f/custom_service/custom_service": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_f/play_video/play_video": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_g/live_room/live_room": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_g/live_subscribe/live_subscribe": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_debug/debug/debug": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/garden/pages/index/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/garden/pages/share/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/sharetransfer/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/boottransfer/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/webviewboot/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/launchapptransfer/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/codetransfer/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/farm/pages/drivetransfer/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    },
+    "package_activity/ranch/pages/index/index": {
+      "network": "all",
+      "packages": ["package_c"]
+    }
+  },
+  "supportedMaterials": [
+    {
+      "materialType": "image/*",
+      "name": "用${nickname}打开",
+      "desc": "快速搜索相似商品",
+      "path": "pages/index/index"
+    }
+  ],
+  "renderer": {
+    "allUsed": ["webview"],
+    "default": "webview"
+  },
+  "requiredPrivateInfos": ["getLocation", "chooseAddress"],
+  "__usePrivacyCheck__": true
+}
